@@ -18,3 +18,10 @@ SpringBoot-Kafka-Consumer Repo code listens to this producer.
 
 ![image](https://github.com/SanchitBatra-DevelopAnything/SpringBoot-Kafka-Producer/assets/61592754/2859dc16-ee40-4bcd-936f-fbbed4ac2d2b)
 
+
+-----------------
+
+Workflow : 
+1.) Put request on /location on producer
+2.) Consumer sees the location coordinates being reflected every second.
+
