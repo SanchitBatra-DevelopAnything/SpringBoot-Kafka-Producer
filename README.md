@@ -1,1 +1,13 @@
 # SpringBoot-Kafka-Producer
+
+1.) Start a zookeeper server
+2.) Start a kafka broker
+
+Follow Along : https://kafka.apache.org/quickstart
+
+This is a POC on kafka producer , and has been tested on CLI Consumer by running shell script for consumer where we specify the topic "cab-location" where we send the data through KafkaTemplate from my codebase.
+
+In the below image , one window starts the broker , other one the zookeeper and the 3rd one the consumer , where we receive the locations every second as sent by the producer.
+
+
+![image](https://github.com/SanchitBatra-DevelopAnything/SpringBoot-Kafka-Producer/assets/61592754/fd8a7095-25db-4537-96ca-fe22e7371a26)
