@@ -11,3 +11,10 @@ In the below image , one window starts the broker , other one the zookeeper and 
 
 
 ![image](https://github.com/SanchitBatra-DevelopAnything/SpringBoot-Kafka-Producer/assets/61592754/fd8a7095-25db-4537-96ca-fe22e7371a26)
+
+-----------------
+
+SpringBoot-Kafka-Consumer Repo code listens to this producer.
+
+![image](https://github.com/SanchitBatra-DevelopAnything/SpringBoot-Kafka-Producer/assets/61592754/2859dc16-ee40-4bcd-936f-fbbed4ac2d2b)
+
