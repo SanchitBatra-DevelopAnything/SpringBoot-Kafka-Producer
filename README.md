@@ -5,7 +5,7 @@
 
 Follow Along : https://kafka.apache.org/quickstart
 
-This is a POC on kafka producer , and has been tested on CLI Consumer by running shell script for consumer where we specify the topic "cab-location" where we send the data through KafkaTemplate from my codebase.
+This is a POC on kafka producer , and has been tested on CLI Consumer by running shell script for consumer where we specify the topic "cab-location" to send the data through KafkaTemplate from this codebase.
 
 In the below image , one window starts the broker , other one the zookeeper and the 3rd one the consumer , where we receive the locations every second as sent by the producer.
 
